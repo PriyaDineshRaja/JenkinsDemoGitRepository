@@ -4,5 +4,9 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World");
+    int a=50, b=100;
+    int c=a+b;
+    System.out.println("Hello, World");
+    System.out.println("Sum = "+c);
   }
 }
